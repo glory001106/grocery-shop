@@ -1,0 +1,514 @@
+[
+    {
+        "id": 1,
+        "category":"fruits",
+        "img": "https://i.ibb.co/2ysgLsT/mango-2.jpg",
+        "name": "Mango",
+        "price": "20",
+        "quantity":0
+    },
+    {
+        "id": 2,
+        "category":"herb",
+        "img": "https://i.ibb.co/P5fvrHb/basil.jpg",
+        "name": "Basil",
+        "price": "10",
+        "quantity":0
+    },
+    {
+        "id": 3,
+        "category":"vegetables",
+        "img": "https://i.ibb.co/JsHr4FN/capcicum.jpg",
+        "name": "Bell Paper",
+        "price": "15",
+        "quantity":0
+    },
+    {
+        "id": 4,
+        "category":"vegetables",
+        "img": "https://i.ibb.co/wKqBCzQ/tomato.jpg",
+        "name": "Tomato",
+        "price": "10",
+        "quantity":0
+    },
+    {
+        "id": 5,
+        "category":"herb",
+        "img": "https://i.ibb.co/s6gm8Q3/ginger.jpg",
+        "name": "Ginger",
+        "price": "13",
+        "quantity":0
+    },
+    {
+        "id": 6,
+        "category":"vegetables",
+        "img": "https://i.ibb.co/jH2hrN3/corn.jpg",
+        "name": "Corn",
+        "price": "10",
+        "quantity":0
+    },
+    {
+        "id": 7,
+        "category":"fruits",
+        "img": "https://i.ibb.co/Nn5JtKL/papaya.jpg",
+        "name": "Papaya",
+        "price": "20",
+        "quantity":0
+    },
+    {
+        "id": 8,
+        "category":"herb",
+        "img": "https://i.ibb.co/S5kvBbX/onion.jpg",
+        "name": "Onion",
+        "price": "13",
+        "quantity":0
+    },
+    {
+        "id": 9,
+        "category":"fruits",
+        "img": "https://i.ibb.co/2q0DrNp/strawberry.jpg",
+        "name": "Strawberry",
+        "price": "30",
+        "quantity":0
+    },
+    {
+        "id": 10,
+        "category":"fruits",
+        "img": "https://i.ibb.co/VLhBggy/apple.jpg",
+        "name": "Apple",
+        "price": "20",
+        "quantity":0
+    },
+    {
+        "id": 11,
+        "category":"fruits",
+        "img": "https://i.ibb.co/Y3gc5R9/grape.jpg",
+        "name": "Grape",
+        "price": "30",
+        "quantity":0
+    },
+    {
+        "id": 12,
+        "category":"vegetables",
+        "img": "https://i.ibb.co/KhSbcwc/cabbage.jpg",
+        "name": "Cabbage",
+        "price": "15",
+        "quantity":0
+    },
+    {
+        "id": 13,
+        "category":"vegetables",
+        "img": "https://i.ibb.co/NVVTPyV/pexels-maxime-lecomte-13473287.jpg",
+        "name": "Mushroom",
+        "price": "20",
+        "quantity":0
+    },
+    {
+        "id": 14,
+        "category":"vegetables",
+        "img": "https://i.ibb.co/T20B5qg/pexels-jordan-rushton-13133611.jpg",
+        "name": "Beetroot",
+        "price": "10",
+        "quantity":0
+    },
+    {
+        "id": 15,
+        "category":"vegetables",
+        "img": "https://i.ibb.co/6g4WXMR/pexels-jordan-rushton-13133609.jpg",
+        "name": "Broccoli",
+        "price": "15",
+        "quantity":0
+    },
+    {
+        "id": 16,
+        "category":"herb",
+        "img": "https://i.ibb.co/txx93Jf/pexels-cihan-y-ce-12176059.jpg",
+        "name": "Coffee bean",
+        "price": "10",
+        "quantity":0
+    },
+    {
+        "id": 17,
+        "category":"fruits",
+        "img": "https://i.ibb.co/CHry9n1/pexels-studio-naae-9681172.jpg",
+        "name": "Passion Fruit",
+        "price": "13",
+        "quantity":0
+    },
+    {
+        "id": 18,
+        "category":"fruits",
+        "img": "https://i.ibb.co/R3T381R/pexels-marcelo-verfe-16077079.jpg",
+        "name": "Coconut",
+        "price": "10",
+        "quantity":0
+    },
+    {
+        "id": 19,
+        "category":"herb",
+        "img": "https://i.ibb.co/ZMkzGR0/pexels-vilnis-husko-13661818.jpg",
+        "name": "Pickle",
+        "price": "20",
+        "quantity":0
+    },
+    {
+        "id": 20,
+        "category":"fruits",
+        "img": "https://i.ibb.co/Vg2H8Vn/pexels-zn-s-food-natureart-8996217.jpg",
+        "name": "Dates",
+        "price": "13",
+        "quantity":0
+    },
+    {
+        "id": 21,
+        "category":"fruits",
+        "img": "https://i.ibb.co/LZbDDtb/pexels-mario-k-12755895.jpg",
+        "name": "Berry",
+        "price": "30",
+        "quantity":0
+    },
+    {
+        "id": 22,
+        "category":"fruits",
+        "img": "https://i.ibb.co/myLHf2k/pexels-jenna-hamra-6123032.jpg",
+        "name": "Kiwi",
+        "price": "20",
+        "quantity":0
+    },
+    {
+        "id": 23,
+        "category":"fruits",
+        "img": "https://i.ibb.co/7v7R8k7/pexels-any-lane-5945911.jpg",
+        "name": "Pear",
+        "price": "30",
+        "quantity":0
+    },
+    {
+        "id": 24,
+        "category":"fruits",
+        "img": "https://i.ibb.co/HVrzH9j/pexels-suzy-hazelwood-1788912.jpg",
+        "name": "Strawberry(Imported)",
+        "price": "15",
+        "quantity":0
+    },
+    {
+        "id": 25,
+        "category":"fruits",
+        "img": "https://i.ibb.co/D4Fb8kh/pexels-mali-maeder-102104.jpg",
+        "name": "Apple(Fuji)",
+        "price": "15",
+        "quantity":0
+    },
+    {
+        "id": 26,
+        "category":"meat",
+        "img": "https://i.ibb.co/N2LT5H6/duck.jpg",
+        "name": "Duck",
+        "price": "15",
+        "quantity":0
+    },
+    {
+        "id": 27,
+        "category":"meat",
+        "img": "https://i.ibb.co/qMVfkpB/chicken.jpg",
+        "name": "Chicken",
+        "price": "10",
+        "quantity":0
+    },
+    {
+        "id": 28,
+        "category":"meat",
+        "img": "https://i.ibb.co/y60hS1d/lamb.jpg",
+        "name": "Lamb",
+        "price": "13",
+        "quantity":0
+    },
+    {
+        "id": 29,
+        "category":"meat",
+        "img": "https://i.ibb.co/9g7LG3z/beef.jpg",
+        "name": "Beef",
+        "price": "10",
+        "quantity":0
+    },
+    {
+        "id": 30,
+        "category":"meat",
+        "img": "https://i.ibb.co/5kWqm13/mutton.jpg",
+        "name": "Mutton",
+        "price": "20",
+        "quantity":0
+    },
+    {
+        "id": 31,
+        "category":"sea",
+        "img": "https://i.ibb.co/B2YbN8P/crab.jpg",
+        "name": "Crab",
+        "price": "13",
+        "quantity":0
+    },
+    {
+        "id": 32,
+        "category":"sea",
+        "img": "https://i.ibb.co/SPPTfjS/shrimp.jpg",
+        "name": "Shrimp",
+        "price": "30",
+        "quantity":0
+    },
+    {
+        "id": 33,
+        "category":"sea",
+        "img": "https://i.ibb.co/bFvGDgs/clams.jpg",
+        "name": "Clams",
+        "price": "20",
+        "quantity":0
+    },
+    {
+        "id": 34,
+        "category":"sea",
+        "img": "https://i.ibb.co/3N3zvvJ/squid.jpg",
+        "name": "Squid",
+        "price": "30",
+        "quantity":0
+    },
+    {
+        "id": 35,
+        "category":"sea",
+        "img": "https://i.ibb.co/B6CZstD/prawn.jpg",
+        "name": "Prawn",
+        "price": "15",
+        "quantity":0
+    },
+    {
+        "id": 36,
+        "category":"ice-cream",
+        "img": "https://i.ibb.co/L0fH9qP/cup-icecream.jpg",
+        "name": "Cup Ice-cream",
+        "price": "10",
+        "quantity":0
+    },
+    {
+        "id": 37,
+        "category":"ice-cream",
+        "img": "https://i.ibb.co/6Hh1W6y/vanila-caramel.jpg",
+        "name": "Vanilla-caramel",
+        "price": "13",
+        "quantity":0
+    },
+    {
+        "id": 38,
+        "category":"ice-cream",
+        "img": "https://i.ibb.co/KXBzLXg/spicy.jpg",
+        "name": "Spicy cone",
+        "price": "10",
+        "quantity":0
+    },
+    {
+        "id": 39,
+        "category":"ice-cream",
+        "img": "https://i.ibb.co/DVPbgrL/raspberry.jpg",
+        "name": "Raspberry",
+        "price": "20",
+        "quantity":0
+    },
+    {
+        "id": 40,
+        "category":"ice-cream",
+        "img": "https://i.ibb.co/kG57Gdq/sugalball.jpg",
+        "name": "Vanilla-sugarball",
+        "price": "13",
+        "quantity":0
+    },
+    {
+        "id": 41,
+        "category":"ice-cream",
+        "img": "https://i.ibb.co/257Qnx7/choco-cone.jpg",
+        "name": "Chocolate Cone",
+        "price": "30",
+        "quantity":0
+    },
+    {
+        "id": 42,
+        "category":"ice-cream",
+        "img": "https://i.ibb.co/Y30tRm1/strawberry.jpg",
+        "name": "Strawberry",
+        "price": "20",
+        "quantity":0
+    },
+    {
+        "id": 43,
+        "category":"ice-cream",
+        "img": "https://i.ibb.co/VDv2ys3/matcha.jpg",
+        "name": "Matcha ",
+        "price": "30",
+        "quantity":0
+    },
+    {
+        "id": 44,
+        "category":"ice-cream",
+        "img": "https://i.ibb.co/pfjtTPg/choco-vanila.jpg",
+        "name": "Choco-vanilla",
+        "price": "15",
+        "quantity":0
+    },
+    {
+        "id": 45,
+        "category":"ice-cream",
+        "img": "https://i.ibb.co/p1ShzpG/vanila-strawberry.jpg",
+        "name": "Vanilla-strawberry",
+        "price": "15",
+        "quantity":0
+    },
+    {
+        "id": 46,
+        "category":"ice-cream",
+        "img": "https://i.ibb.co/z2sMjJ0/vanila-popcorn.jpg",
+        "name": "Vanilla-popcorn",
+        "price": "15",
+        "quantity":0
+    },
+    {
+        "id": 47,
+        "category":"ice-cream",
+        "img": "https://i.ibb.co/R7Km8WB/lemon-popsicle.jpg",
+        "name": "Lemon Popsicle",
+        "price": "10",
+        "quantity":0
+    },
+    {
+        "id": 48,
+        "category":"ice-cream",
+        "img": "https://i.ibb.co/vqnkDjG/chocobar.jpg",
+        "name": "Chocobar",
+        "price": "13",
+        "quantity":0
+    },
+    {
+        "id": 49,
+        "category":"oil",
+        "img": "https://i.ibb.co/mJjwF1X/olive.jpg",
+        "name": "Olive Oil",
+        "price": "10",
+        "quantity":0
+    },
+    {
+        "id": 50,
+        "category":"oil",
+        "img": "https://i.ibb.co/nPrDkyv/coconut.jpg",
+        "name": "Coconut Oil",
+        "price": "20",
+        "quantity":0
+    },
+    {
+        "id": 51,
+        "category":"oil",
+        "img": "https://i.ibb.co/nm8sZ0c/canola-oil.jpg",
+        "name": "Canola Oil",
+        "price": "13",
+        "quantity":0
+    },
+    {
+        "id": 52,
+        "category":"oil",
+        "img": "https://i.ibb.co/fH6pbPX/extra-virgin-olive.jpg",
+        "name": "Olive oil (extra virgin)",
+        "price": "30",
+        "quantity":0
+    },
+    {
+        "id": 53,
+        "category":"oil",
+        "img": "https://i.ibb.co/MNfBkhW/sunflower.jpg",
+        "name": "Sunflower Oil",
+        "price": "20",
+        "quantity":0
+    },
+    {
+        "id": 54,
+        "category":"fish",
+        "img": "https://i.ibb.co/LZM9gcQ/parrot-fish.jpg",
+        "name": "Parrot-fish",
+        "price": "30",
+        "quantity":0
+    },
+    {
+        "id": 55,
+        "category":"fish",
+        "img": "https://i.ibb.co/5hXvDz7/coral.jpg",
+        "name": "Coral",
+        "price": "15",
+        "quantity":0
+    },
+    {
+        "id": 56,
+        "category":"fish",
+        "img": "https://i.ibb.co/7RgSyt6/fish-fillet.jpg",
+        "name": "Fish-Fillet",
+        "price": "15",
+        "quantity":0
+    },
+    {
+        "id": 57,
+        "category":"fish",
+        "img": "https://i.ibb.co/Ws1D4cK/puti.jpg",
+        "name": "Puti",
+        "price": "10",
+        "quantity":0
+    },
+    {
+        "id": 58,
+        "category":"fish",
+        "img": "https://i.ibb.co/F80GSZ1/Salmon.jpg",
+        "name": "Salmon",
+        "price": "13",
+        "quantity":0
+    },
+    {
+        "id": 59,
+        "category":"fish",
+        "img": "https://i.ibb.co/gJ4xQB3/shrimp.jpg",
+        "name": "Shrimp",
+        "price": "10",
+        "quantity":0
+    },
+    {
+        "id": 60,
+        "category":"fish",
+        "img": "https://i.ibb.co/Qk8M7Gm/makerel.jpg",
+        "name": "Mackerel",
+        "price": "20",
+        "quantity":0
+    },
+    {
+        "id": 61,
+        "category":"fish",
+        "img": "https://i.ibb.co/rkRxJPP/telapia.jpg",
+        "name": "Tilapia",
+        "price": "13",
+        "quantity":0
+    },
+    {
+        "id": 62,
+        "category":"fish",
+        "img": "https://i.ibb.co/T17HVjQ/pangas.jpg",
+        "name": "Pangas",
+        "price": "30",
+        "quantity":0
+    },
+    {
+        "id": 63,
+        "category":"fish",
+        "img": "https://i.ibb.co/4sX0wX2/pomfret.jpg",
+        "name": "Pomfret",
+        "price": "20",
+        "quantity":0
+    },
+    {
+        "id": 64,
+        "category":"fish",
+        "img": "https://i.ibb.co/mJ6bQSt/rui.jpg",
+        "name": "Rui Fish",
+        "price": "30",
+        "quantity":0
+    }
+]
